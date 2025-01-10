@@ -11929,3 +11929,14 @@ blockquote > p {
   background-color: var(--tg-theme-primary);
   color: var(--tg-color-gray-9);
 }
+@media (max-width: 576px) {
+  .pb-60 {
+    padding-bottom: 30px;
+}
+.pt-80 {
+    padding-top: 40px;
+}
+.services__area {
+  padding: 60px 0 45px;
+}
+}
