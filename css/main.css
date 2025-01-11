@@ -339,22 +339,22 @@ textarea {
 }
 @media (max-width: 1199.98px) {
   .container {
-    max-width: 960px;
+    max-width: 98%;
   }
 }
 @media (max-width: 991.98px) {
   .container {
-    max-width: 720px;
+    max-width: 98%;
   }
 }
 @media (max-width: 767.98px) {
   .container {
-    max-width: 100%;
+    max-width: 98%;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .container {
-    max-width: 540px;
+    max-width: 98%;
   }
 }
 
@@ -1699,7 +1699,7 @@ textarea {
 }
 .tgmobile__menu .nav-logo {
   position: relative;
-  padding: 30px 25px;
+  padding: 10px 15px;
   text-align: left;
 }
 .tgmobile__menu .nav-logo img {
@@ -2675,7 +2675,7 @@ textarea {
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .tgmenu__wrap {
-    padding: 20px 30px;
+    padding: 10px 30px;
   }
 }
 .tgmenu__wrap .logo {
