@@ -5487,8 +5487,8 @@ textarea {
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .services__thumb {
-    height: 210px;
-    width: 242px;
+    height: 300px;
+    width: 100%;
   }
 }
 .services__thumb::before {
