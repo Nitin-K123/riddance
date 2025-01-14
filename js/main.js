@@ -411,6 +411,6 @@ function aosAnimation() {
 		disable: 'mobile',
 	});
 }
-
+$("#year").text(new Date().getFullYear()); 
 
 })(jQuery);
